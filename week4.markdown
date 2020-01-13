@@ -6,12 +6,12 @@
 #### Data      
 Datasets :
 
-- Demographics of New York City from U.S. Census of 2000 and the New York Department of City Planning hosted by [N Y U] Demographics-of-New-York-Census
-- Demographics of New York City from wikipedia - [Demographics of New York City] Demographics-of-New-York-City
-- List of Postal Codes of Canada from wikipedia - [Canada List Postal Code] Canada-List-Postal-Code
-- Boroughs of Nework City from wikipedia - [Boroughs of New York City] Boroughs-of-New-York-City
-- Demographics of Toronto Neighbourhoods from wikipedia which is in turn taken from 2006 Canadian Census - [Demographics of Toronto Neighbourhoods] Demographics-of-Toronto-Neighbourhoods
--Foursquare API Geolocation data - [Foursquare API] Foursquare-Developer-API
+- Demographics of New York City from [NYC Open Data] (https://opendata.cityofnewyork.us/)
+- Demographics of New York City from wikipedia - [Demographics of New York City] (https://en.wikipedia.org/wiki/Demographics_of_New_York_City)
+- List of Postal Codes of Canada from wikipedia - [Canada List Postal Code] (https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M)
+- Boroughs of Nework City from wikipedia - [Boroughs of New York City] (https://en.wikipedia.org/wiki/Boroughs_of_New_York_City)
+- Demographics of Toronto Neighbourhoods from wikipedia which is in turn taken from 2006 Canadian Census - [Demographics of Toronto Neighbourhoods] (https://en.wikipedia.org/wiki/Demographics_of_Toronto) and [Demographics of Toronto Neighbourhoods] (https://en.wikipedia.org/wiki/Demographics_of_Toronto_neighbourhoods)
+-Foursquare API Geolocation data - [Foursquare API] (https://it.foursquare.com/)
 
 The next assignement the data will be presented in a more specific way                                
       
