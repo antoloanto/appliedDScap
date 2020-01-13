@@ -1,20 +1,17 @@
-COMPARISON OF NEIGHBOROHOOD OF TORONTO AND NEW YORK USING FOURSQUARE
+##COMPARISON OF NEIGHBOROHOOD OF TORONTO AND NEW YORK USING FOURSQUARE
 
-- Business Problem
-      The xyz is a big company that need to open a new branch office.
-      After a board meeting it was decided that the branch office should 
-      be opened in one of the two cities considered: New York or Toronto.
-      
-      The core problem of our project is to establish where it is convenient 
-      to open the new office based on population density and average income of inhabitants
+####Business Problem
+*That's Food*, an international company with many reasturant in many country of the world, want to open a new restaurant in the North America. After several board meeting they decided that the two cities to consider are  New York and Toronto, but doesn't know which one of these two neighbourhoods, the Manhattan and the Downtown in the New York City and the Toronto City respectively, is better to open or site a company or business. Hence they decided to hire a team of data scientist to solve the problem to choose the right neighbourhood for *That's Food* to open a new restaurant.  
 
-- Data      
-      All the datasets were provided by Coursera from :
-              Foursquare    --->  https://developer.foursquare.com/
-              Wikipedia     --->  https://en.wikipedia.org/wiki/Boroughs_of_New_York_City
-                                  https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
-              IBM open data --->  https://cocl.us/new_york_dataset
-                                  https://cocl.us/Geospatial_data
-                                  
+####Data      
+Datasets :
+
+- Demographics of New York City from U.S. Census of 2000 and the New York Department of City Planning hosted by [N Y U] Demographics-of-New-York-Census
+- Demographics of New York City from wikipedia - [Demographics of New York City] Demographics-of-New-York-City
+- List of Postal Codes of Canada from wikipedia - [Canada List Postal Code] Canada-List-Postal-Code
+- Boroughs of Nework City from wikipedia - [Boroughs of New York City] Boroughs-of-New-York-City
+- Demographics of Toronto Neighbourhoods from wikipedia which is in turn taken from 2006 Canadian Census - [Demographics of Toronto Neighbourhoods] Demographics-of-Toronto-Neighbourhoods
+-Foursquare API Geolocation data - [Foursquare API] Foursquare-Developer-API
+
 The next assignement the data will be presented in a more specific way                                
       
