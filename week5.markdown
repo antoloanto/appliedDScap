@@ -56,5 +56,8 @@ Here the encoded data during the analysis are fed into the machine learning algo
 
 --- INSERT LINK --- See the code [Here](...) at the MACHINE LEARNING - NYC Manhattan and the Toronto Downtown point --- INSERT LINK ---
 ### 5 Results
+See the image1 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
+See the image1 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
+See the image1 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
 
 ### 6 Conclusion
