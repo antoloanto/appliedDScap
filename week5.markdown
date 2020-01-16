@@ -59,5 +59,8 @@ Here the encoded data during the analysis are fed into the machine learning algo
 - See the image1 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
 - See the image2 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
 - See the image3 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
+- See the image4 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
+- See the image5 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
+- See the image6 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
 
 ### 6 Conclusion
