@@ -45,7 +45,7 @@ and are respectively the numeric line running east and west of the earth and the
 
 The target value (variable) or label of the data set is the neighbourhood which is the dependent variable. The other variables is like longitudes, latitudes, venues, etc are the independent (predictor) variables.
 
-See the code [Here](...) at the DATA GATHERING AND ORGANIZATION point --- INSERT LINK
+--- INSERT LINK --- See the code [Here](...) at the DATA GATHERING AND ORGANIZATION point --- INSERT LINK ---
       
 ### 3 Data Analysis
 ### 4 Machine Learning
