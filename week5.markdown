@@ -66,4 +66,4 @@ Here the encoded data during the analysis are fed into the machine learning algo
 ### 6 Conclusion
 The neighborhoods are similar when one considers only the question of the location of the restaurant.
 The difference to focus on is the issue of population density, which is much greater in NYC.
-Therefore, it will be better to open the new "That's Food" restaurant in Manhattan to earn more money.
+Therefore, it will be better to open the new *"That's Food"* restaurant in Manhattan to earn more money.
