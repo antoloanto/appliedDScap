@@ -44,6 +44,8 @@ The identity numbers are the numbers that uniquely identify the tuple. Latitude 
 and are respectively the numeric line running east and west of the earth and the imaginary line running north and south of Green Wich meridian. The borough is a subset of a city. The neighbourhood is the community area name.
 
 The target value (variable) or label of the data set is the neighbourhood which is the dependent variable. The other variables is like longitudes, latitudes, venues, etc are the independent (predictor) variables.
+
+See the code [Here](https://www.google.com/) at the DATA GATHERING AND ORGANIZATION
       
 ### 3 Data Analysis
 ### 4 Machine Learning
