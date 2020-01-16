@@ -5,9 +5,8 @@
 2. Data Gathering and Organization
 3. Data Analysis
 4. Machine Learning
-5. Result
-6. Discussion
-7. Conclusion
+5. Results
+6. Conclusion
 
 ### 1 Business Problem
 *"That's Food"*, an international company with many reasturant in many country of the world, want to open a new restaurant in the North America. After several board meeting they decided that the two cities to consider are  New York and Toronto, but doesn't know which one of these two neighbourhoods, the Manhattan and the Downtown in the New York City and the Toronto City respectively, is better to open or site a company or business. Hence they decided to hire a team of data scientist to solve the problem to choose the right neighbourhood for *"That's Food"* to open a new restaurant.  
@@ -49,6 +48,5 @@ The target value (variable) or label of the data set is the neighbourhood which 
       
 ### 3 Data Analysis
 ### 4 Machine Learning
-### 5 Result
-### 6 Discussion
-### 7 Conclusion
+### 5 Results
+### 6 Conclusion
