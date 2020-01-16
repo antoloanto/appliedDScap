@@ -2,7 +2,7 @@
 
 ### Index
 1. Business Problem
-2. Data
+2. Data Gathering and Organization
 3. Data Analysis
 4. Machine Learning
 5. Result
@@ -15,7 +15,7 @@
 The right audience for this work is the *"That's Food"* management .
 The aim of the project is understand what is the best city and his neighbourhood to be considered for opening a new restaurant.
 
-### 2 Data      
+### 2 Data Gathering and Organization     
 Datasets :
 
 - Demographics of New York City from - [NYC Open Data](https://opendata.cityofnewyork.us/)
@@ -45,7 +45,7 @@ and are respectively the numeric line running east and west of the earth and the
 
 The target value (variable) or label of the data set is the neighbourhood which is the dependent variable. The other variables is like longitudes, latitudes, venues, etc are the independent (predictor) variables.
 
-See the code [Here](https://www.google.com/) at the DATA GATHERING AND ORGANIZATION
+See the code [Here](...) at the DATA GATHERING AND ORGANIZATION point --- INSERT LINK
       
 ### 3 Data Analysis
 ### 4 Machine Learning
