@@ -47,6 +47,14 @@ The target value (variable) or label of the data set is the neighbourhood which 
 --- INSERT LINK --- See the code [Here](...) at the DATA GATHERING AND ORGANIZATION point --- INSERT LINK ---
       
 ### 3 Data Analysis
+The data sets of the two neighbourhoods, Toronto Downtown and the Manhattan were visualized to gain knowledge of the distribution of variables and the neighbourhoods in the Boroughs, using folium library. Later it was checked how much these data are correlated.
+
+--- INSERT LINK --- See the code [Here](...) at the DATA ANALYSIS - NYC Manhattan and the Toronto Downtown point --- INSERT LINK ---
+
 ### 4 Machine Learning
+Here the encoded data during the analysis are fed into the machine learning algorithm - K-mean Clustering - to group or segment the neighbourhoods. At the end, the neighbourhoods that have similar characteristics are grouped together. Thence the similarities and dissimilarities of the Downtown and the Manhattan are observed.
+
+--- INSERT LINK --- See the code [Here](...) at the MACHINE LEARNING - NYC Manhattan and the Toronto Downtown point --- INSERT LINK ---
 ### 5 Results
+
 ### 6 Conclusion
