@@ -1,20 +1,22 @@
 ## Neighborohood Comparison Using FourSquare - NYC Manhattan and Toronto Downtown
 
 ### Index
-1. Business Problem
+1. INTRODUCTION to Business Problem
     - Installing and importing
-2. Data Gathering and Organization
+2. DATA Gathering and Organization
     - Examples and link to code 
-3. Data Analysis
-    - Examples and link to code 
-4. Machine Learning
-    - Examples and link to code 
-5. Results
-6. Conclusion
+3. METHODOLOGY
+    1. Data Analysis
+        - Examples and link to code 
+    2. Machine Learning
+        - Examples and link to code 
+4. RESULTS
+5. DISCUSSION
+6. CONCLUSION
 
 ---
 
-### 1 Business Problem
+### 1 INTRODUCTION to Business Problem
 *"That's Food"*, an international company with many reasturant in many country of the world, want to open a new restaurant in the North America. After several board meeting they decided that the two cities to consider are  New York and Toronto, but doesn't know which one of these two neighbourhoods, the Manhattan and the Downtown in the New York City and the Toronto City respectively, is better to open or site a company or business. Hence they decided to hire a team of data scientist to solve the problem to choose the right neighbourhood for *"That's Food"* to open a new restaurant.  
 
 The right audience for this work is the *"That's Food"* management .
@@ -34,7 +36,7 @@ Other Libraries :
 - Beautifulsoup : to scrape the data from the web
 - json          : to handle JSON files
 
-### 2 Data Gathering and Organization     
+### 2 DATA Gathering and Organization     
 Datasets :
 
 - Demographics of New York City from - [NYC Open Data](https://opendata.cityofnewyork.us/)
@@ -72,7 +74,8 @@ Example of data collected for NYC Manhattan :
 
 See the code [Here](https://github.com/antoloanto/appliedDScap/blob/master/AppliedDS_Capstone-BattleofNeighborhoods.ipynb) at the DATA GATHERING AND ORGANIZATION point
       
-### 3 Data Analysis
+### 3 METHODOLOGY
+### 3.1 Data Analysis
 The data sets of the two neighbourhoods, Toronto Downtown and the Manhattan were visualized to gain knowledge of the distribution of variables and the neighbourhoods in the Boroughs, using folium library. Later it was checked how much these data are correlated.
 
 ###### - Examples and link to code
@@ -82,7 +85,7 @@ Example of most common venues for NYC Manhattan and Toronto Downtown :
 
 See the code [Here](https://github.com/antoloanto/appliedDScap/blob/master/AppliedDS_Capstone-BattleofNeighborhoods.ipynb) at the DATA ANALYSIS - NYC Manhattan and the Toronto Downtown point
 
-### 4 Machine Learning
+### 3.2 Machine Learning
 Here the encoded data during the analysis are fed into the machine learning algorithm - K-mean Clustering - to group or segment the neighbourhoods. At the end, the neighbourhoods that have similar characteristics are grouped together. Thence the similarities and dissimilarities of the Downtown and the Manhattan are observed.
 
 ###### - Examples and link to code
@@ -91,7 +94,7 @@ Example of most common venues for NYC Manhattan and Toronto Downtown :
 - [Toronto Cluster 1 example](https://github.com/antoloanto/appliedDScap/blob/master/week5source/2-toronto-clus.JPG)
 
 See the code [Here](https://github.com/antoloanto/appliedDScap/blob/master/AppliedDS_Capstone-BattleofNeighborhoods.ipynb) at the MACHINE LEARNING - NYC Manhattan and the Toronto Downtown point
-### 5 Results
+### 4 Results
 - NYC venues number [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/7-num-venus.JPG)
 - Toronto venues number [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/4-venues-list.JPG)
 - NYC venues map [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/6-nyc-map.JPG)
@@ -101,9 +104,11 @@ See the code [Here](https://github.com/antoloanto/appliedDScap/blob/master/Appli
 
 See the code [Here](https://github.com/antoloanto/appliedDScap/blob/master/AppliedDS_Capstone-BattleofNeighborhoods.ipynb) at the RESULTS point
 
-### 6 Conclusion
+### 5 Discussion
 The neighborhoods are similar if considers banks, markets, college. This venues represents availability of capital and presence of people. It is important not only the question of the location of the restaurant. 
 The difference to focus on is the issue of population density, which is much greater in NYC.
+
+### 6 Conclusion
 Therefore, it will be better to open the new *"That's Food"* restaurant in Manhattan to earn more money.
 
 ---
