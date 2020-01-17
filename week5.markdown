@@ -38,7 +38,7 @@ Other Libraries :
 - Pandas        : high-performance, easy-to-use data structures and data analysis tools
 - Matplotlib    : 2D plotting library which produces publication quality figures in a variety of hardcopy formats
 - k-means       : from clustering stage
-- Beautifulsoup : # to scrape the data from the web
+- Beautifulsoup : to scrape the data from the web
 - json          : to handle JSON files
 
 ### 2 Data Gathering and Organization     
@@ -72,9 +72,11 @@ and are respectively the numeric line running east and west of the earth and the
 The target value (variable) or label of the data set is the neighbourhood which is the dependent variable. The other variables is like longitudes, latitudes, venues, etc are the independent (predictor) variables.
 
 Example of data collected for NYC Manhattan : 
-- [NYC Data](https://opendata.cityofnewyork.us/)
-- [NYC Demographs](https://opendata.cityofnewyork.us/)
---- INSERT LINK --- See the code [Here](...) at the DATA GATHERING AND ORGANIZATION point --- INSERT LINK ---
+- [NYC Data](https://github.com/antoloanto/appliedDScap/blob/master/week5source/0-data.JPG)
+- [NYC Demographs](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1-demograph.JPG)
+- [NYC Venues](https://github.com/antoloanto/appliedDScap/blob/master/week5source/3-venues.JPG)
+
+See the code [Here](...) at the DATA GATHERING AND ORGANIZATION point --- INSERT LINK ---
       
 ### 3 Data Analysis
 The data sets of the two neighbourhoods, Toronto Downtown and the Manhattan were visualized to gain knowledge of the distribution of variables and the neighbourhoods in the Boroughs, using folium library. Later it was checked how much these data are correlated.
