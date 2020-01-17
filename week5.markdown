@@ -66,7 +66,7 @@ and are respectively the numeric line running east and west of the earth and the
 
 The target value (variable) or label of the data set is the neighbourhood which is the dependent variable. The other variables is like longitudes, latitudes, venues, etc are the independent (predictor) variables.
 
-###### Examples and link to code
+###### - Examples and link to code
 Example of data collected for NYC Manhattan : 
 - [NYC Data](https://github.com/antoloanto/appliedDScap/blob/master/week5source/0-data.JPG)
 - [NYC Demographs](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1-demograph.JPG)
