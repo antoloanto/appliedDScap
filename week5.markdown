@@ -10,8 +10,6 @@
 4. Machine Learning
     - Examples and link to code 
 5. Results
-    - NYC Manhattan
-    - Toronto Downtown
 6. Conclusion
 
 ---
@@ -104,28 +102,8 @@ See the code [Here](https://github.com/antoloanto/appliedDScap/blob/master/Appli
 See the code [Here](https://github.com/antoloanto/appliedDScap/blob/master/AppliedDS_Capstone-BattleofNeighborhoods.ipynb) at the RESULTS point
 
 ### 6 Conclusion
-The neighborhoods are similar when one considers only the question of the location of the restaurant.
+The neighborhoods are similar if considers banks, markets, college. This venues represents availability of capital and presence of people. It is important not only the question of the location of the restaurant. 
 The difference to focus on is the issue of population density, which is much greater in NYC.
 Therefore, it will be better to open the new *"That's Food"* restaurant in Manhattan to earn more money.
 
---------------------------------------------
-----------------------------------
---------------------------------------------
-
-### ---- DA MODIFICARE BENE PER CONCLUDERE. RICORDARSI INOLTRE DI FARE I VARI SCREENSHOT ---
-
-OSSERVAZIONI : 
-
-The two neighbourhoods in the Manhattan of the New York City and the Downtown Toronto of the Toronto City - are similar in having banks, grocery, market, farmers market, waterfall, college, transport station and buildings but dissimilar in other venues listed above and in the table 2.5 shown above in the result section.
-
-These venues that are similar indirectly represent availability of capital made available by bank, raw materials provided by the farmers markets and groceries, water provided by waterfall, labour provided by the colleges and the universities, efficient management provided by the college and the competitors which are in the restaurant businesses in the neighbourhoods, transport facilities provided by the presence of bus or train stations in the neighbourhoods.
-
-RECCOMENDATIONS :
-
-Even though there are factors or variables that are not available during the research, the research still recommend that the Manhattan neighbourhoods should be considered in siting a restaurant business if the two boroughs given to be considered are the Manhattan and the Downtown.
-
-CONCLUSIONI : 
-
-In the end, the Manhattan neighbourhoods are better than the Downtown neighbourhoods in siting a restaurant business based on the available data. Why? Though the two neighbourhoods are similar in factor that influence the location of restaurant business yet they are glaringly dissimilar in the population densities and hence the market shares of a potential restaurant business.
-
-Any potential restaurant businesses sited in the Manhattan will have large market share because of the population or population density of the area than if it is to be sited in the Downtown.
+---
