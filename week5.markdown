@@ -70,7 +70,7 @@ Example of data collected for NYC Manhattan :
 - [NYC Demographs](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1-demograph.JPG)
 - [NYC Venues](https://github.com/antoloanto/appliedDScap/blob/master/week5source/3-venues.JPG)
 
-See the code [Here](...) at the DATA GATHERING AND ORGANIZATION point --- INSERT LINK ---
+See the code [Here](https://github.com/antoloanto/appliedDScap/blob/master/AppliedDS_Capstone-BattleofNeighborhoods.ipynb) at the DATA GATHERING AND ORGANIZATION point
       
 ### 3 Data Analysis
 The data sets of the two neighbourhoods, Toronto Downtown and the Manhattan were visualized to gain knowledge of the distribution of variables and the neighbourhoods in the Boroughs, using folium library. Later it was checked how much these data are correlated.
@@ -80,7 +80,7 @@ Example of most common venues for NYC Manhattan and Toronto Downtown :
 - [NYC Most Common Venues](https://github.com/antoloanto/appliedDScap/blob/master/week5source/4-nyc-common.JPG)
 - [Toronto Most Common Venues](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1-Toronto-common.JPG)
 
-See the code [Here](...) at the DATA ANALYSIS - NYC Manhattan and the Toronto Downtown point --- INSERT LINK ---
+See the code [Here](https://github.com/antoloanto/appliedDScap/blob/master/AppliedDS_Capstone-BattleofNeighborhoods.ipynb) at the DATA ANALYSIS - NYC Manhattan and the Toronto Downtown point
 
 ### 4 Machine Learning
 Here the encoded data during the analysis are fed into the machine learning algorithm - K-mean Clustering - to group or segment the neighbourhoods. At the end, the neighbourhoods that have similar characteristics are grouped together. Thence the similarities and dissimilarities of the Downtown and the Manhattan are observed.
@@ -90,8 +90,7 @@ Example of most common venues for NYC Manhattan and Toronto Downtown :
 - [NYC Cluster 1 example](https://github.com/antoloanto/appliedDScap/blob/master/week5source/5-nyc-cl.JPG)
 - [Toronto Cluster 1 example](https://github.com/antoloanto/appliedDScap/blob/master/week5source/2-toronto-clus.JPG)
 
-See the code [Here](...) at the MACHINE LEARNING - NYC Manhattan and the Toronto Downtown point --- INSERT LINK ---
-
+See the code [Here](https://github.com/antoloanto/appliedDScap/blob/master/AppliedDS_Capstone-BattleofNeighborhoods.ipynb) at the MACHINE LEARNING - NYC Manhattan and the Toronto Downtown point
 ### 5 Results
 - See the image1 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
 - See the image2 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
@@ -100,7 +99,31 @@ See the code [Here](...) at the MACHINE LEARNING - NYC Manhattan and the Toronto
 - See the image5 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
 - See the image6 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
 
+See the code [Here](https://github.com/antoloanto/appliedDScap/blob/master/AppliedDS_Capstone-BattleofNeighborhoods.ipynb) at the RESULTS point
+
 ### 6 Conclusion
 The neighborhoods are similar when one considers only the question of the location of the restaurant.
 The difference to focus on is the issue of population density, which is much greater in NYC.
 Therefore, it will be better to open the new *"That's Food"* restaurant in Manhattan to earn more money.
+
+--------------------------------------------
+----------------------------------
+--------------------------------------------
+
+### ---- DA MODIFICARE BENE PER CONCLUDERE. RICORDARSI INOLTRE DI FARE I VARI SCREENSHOT ---
+
+OSSERVAZIONI : 
+
+The two neighbourhoods in the Manhattan of the New York City and the Downtown Toronto of the Toronto City - are similar in having banks, grocery, market, farmers market, waterfall, college, transport station and buildings but dissimilar in other venues listed above and in the table 2.5 shown above in the result section.
+
+These venues that are similar indirectly represent availability of capital made available by bank, raw materials provided by the farmers markets and groceries, water provided by waterfall, labour provided by the colleges and the universities, efficient management provided by the college and the competitors which are in the restaurant businesses in the neighbourhoods, transport facilities provided by the presence of bus or train stations in the neighbourhoods.
+
+RECCOMENDATIONS :
+
+Even though there are factors or variables that are not available during the research, the research still recommend that the Manhattan neighbourhoods should be considered in siting a restaurant business if the two boroughs given to be considered are the Manhattan and the Downtown.
+
+CONCLUSIONI : 
+
+In the end, the Manhattan neighbourhoods are better than the Downtown neighbourhoods in siting a restaurant business based on the available data. Why? Though the two neighbourhoods are similar in factor that influence the location of restaurant business yet they are glaringly dissimilar in the population densities and hence the market shares of a potential restaurant business.
+
+Any potential restaurant businesses sited in the Manhattan will have large market share because of the population or population density of the area than if it is to be sited in the Downtown.
