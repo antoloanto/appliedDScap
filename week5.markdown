@@ -5,15 +5,16 @@
     - Installing and importing
 2. Data Gathering and Organization
     - Examples and link to code 
-- Data Analysis
-    1. NYC Manhattan neighbourhood
-    2. Toronto Downtown neighbourhood
-- Machine Learning
-    1. k-means to cluster the NYC Manhattan neighborhood
-    2. k-means to cluster the Toronto Downtown neighborhood
-- Results
-    1. NYC Manhattan
-    2. Toronto Downtown
+3. Data Analysis
+    - NYC Manhattan neighbourhood
+    - Toronto Downtown neighbourhood
+4. Machine Learning
+    - k-means to cluster the NYC Manhattan neighborhood
+    - k-means to cluster the Toronto Downtown neighborhood
+5. Results
+    - NYC Manhattan
+    - Toronto Downtown
+6. Conclusion
 
 ### 1 Business Problem
 *"That's Food"*, an international company with many reasturant in many country of the world, want to open a new restaurant in the North America. After several board meeting they decided that the two cities to consider are  New York and Toronto, but doesn't know which one of these two neighbourhoods, the Manhattan and the Downtown in the New York City and the Toronto City respectively, is better to open or site a company or business. Hence they decided to hire a team of data scientist to solve the problem to choose the right neighbourhood for *"That's Food"* to open a new restaurant.  
