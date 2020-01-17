@@ -8,8 +8,7 @@
 3. Data Analysis
     - Examples and link to code 
 4. Machine Learning
-    - k-means to cluster the NYC Manhattan neighborhood
-    - k-means to cluster the Toronto Downtown neighborhood
+    - Examples and link to code 
 5. Results
     - NYC Manhattan
     - Toronto Downtown
@@ -86,7 +85,13 @@ See the code [Here](...) at the DATA ANALYSIS - NYC Manhattan and the Toronto Do
 ### 4 Machine Learning
 Here the encoded data during the analysis are fed into the machine learning algorithm - K-mean Clustering - to group or segment the neighbourhoods. At the end, the neighbourhoods that have similar characteristics are grouped together. Thence the similarities and dissimilarities of the Downtown and the Manhattan are observed.
 
---- INSERT LINK --- See the code [Here](...) at the MACHINE LEARNING - NYC Manhattan and the Toronto Downtown point --- INSERT LINK ---
+###### - Examples and link to code
+Example of most common venues for NYC Manhattan and Toronto Downtown : 
+- [NYC Cluster 1 example](https://github.com/antoloanto/appliedDScap/blob/master/week5source/5-nyc-cl.JPG)
+- [Toronto Cluster 1 example](https://github.com/antoloanto/appliedDScap/blob/master/week5source/2-toronto-clus.JPG)
+
+See the code [Here](...) at the MACHINE LEARNING - NYC Manhattan and the Toronto Downtown point --- INSERT LINK ---
+
 ### 5 Results
 - See the image1 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
 - See the image2 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
