@@ -6,8 +6,7 @@
 2. Data Gathering and Organization
     - Examples and link to code 
 3. Data Analysis
-    - NYC Manhattan neighbourhood
-    - Toronto Downtown neighbourhood
+    - Examples and link to code 
 4. Machine Learning
     - k-means to cluster the NYC Manhattan neighborhood
     - k-means to cluster the Toronto Downtown neighborhood
@@ -77,7 +76,12 @@ See the code [Here](...) at the DATA GATHERING AND ORGANIZATION point --- INSERT
 ### 3 Data Analysis
 The data sets of the two neighbourhoods, Toronto Downtown and the Manhattan were visualized to gain knowledge of the distribution of variables and the neighbourhoods in the Boroughs, using folium library. Later it was checked how much these data are correlated.
 
---- INSERT LINK --- See the code [Here](...) at the DATA ANALYSIS - NYC Manhattan and the Toronto Downtown point --- INSERT LINK ---
+###### - Examples and link to code
+Example of most common venues for NYC Manhattan and Toronto Downtown : 
+- [NYC Most Common Venues](https://github.com/antoloanto/appliedDScap/blob/master/week5source/4-nyc-common.JPG)
+- [Toronto Most Common Venues](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1-Toronto-common.JPG)
+
+See the code [Here](...) at the DATA ANALYSIS - NYC Manhattan and the Toronto Downtown point --- INSERT LINK ---
 
 ### 4 Machine Learning
 Here the encoded data during the analysis are fed into the machine learning algorithm - K-mean Clustering - to group or segment the neighbourhoods. At the end, the neighbourhoods that have similar characteristics are grouped together. Thence the similarities and dissimilarities of the Downtown and the Manhattan are observed.
