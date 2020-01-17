@@ -2,16 +2,8 @@
 
 ### Index
 1. Business Problem
-2. Data Gathering and Organization
-3. Data Analysis
-4. Machine Learning
-5. Results
-6. Conclusion
-
-### Index
-1. Business Problem
     - Installing and importing
-2 Data Gathering and Organization
+2. Data Gathering and Organization
     1. NYC Manhattan Data
     2. Toronto Data
     3. NYC Demograph
@@ -42,12 +34,12 @@ First of all it is necessary to install the geopy and folium libraries in order 
 - Folium : display spatial data (all data types that contain geographic data types such as latitude and longitude) and generate insights
 
 Other Libraries :
-    - Numpy         : handle data in a vectorized manner
-    - Pandas        : high-performance, easy-to-use data structures and data analysis tools
-    - Matplotlib    : 2D plotting library which produces publication quality figures in a variety of hardcopy formats
-    - k-means       : from clustering stage
-    - Beautifulsoup : # to scrape the data from the web
-    - json          : to handle JSON files
+- Numpy         : handle data in a vectorized manner
+- Pandas        : high-performance, easy-to-use data structures and data analysis tools
+- Matplotlib    : 2D plotting library which produces publication quality figures in a variety of hardcopy formats
+- k-means       : from clustering stage
+- Beautifulsoup : # to scrape the data from the web
+- json          : to handle JSON files
 
 ### 2 Data Gathering and Organization     
 Datasets :
@@ -80,8 +72,8 @@ and are respectively the numeric line running east and west of the earth and the
 The target value (variable) or label of the data set is the neighbourhood which is the dependent variable. The other variables is like longitudes, latitudes, venues, etc are the independent (predictor) variables.
 
 Example of data collected for NYC Manhattan : 
-    - [NYC Data](https://opendata.cityofnewyork.us/)
-    - [NYC Demographs](https://opendata.cityofnewyork.us/)
+- [NYC Data](https://opendata.cityofnewyork.us/)
+- [NYC Demographs](https://opendata.cityofnewyork.us/)
 --- INSERT LINK --- See the code [Here](...) at the DATA GATHERING AND ORGANIZATION point --- INSERT LINK ---
       
 ### 3 Data Analysis
