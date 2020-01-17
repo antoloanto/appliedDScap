@@ -94,12 +94,12 @@ Example of most common venues for NYC Manhattan and Toronto Downtown :
 
 See the code [Here](https://github.com/antoloanto/appliedDScap/blob/master/AppliedDS_Capstone-BattleofNeighborhoods.ipynb) at the MACHINE LEARNING - NYC Manhattan and the Toronto Downtown point
 ### 5 Results
-- See the image1 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
-- See the image2 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
-- See the image3 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
-- See the image4 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
-- See the image5 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
-- See the image6 [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1)
+- NYC venues number [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/7-num-venus.JPG)
+- Toronto venues number [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/4-venues-list.JPG)
+- NYC venues map [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/6-nyc-map.JPG)
+- Toronto venues map [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/3-toronto-map.JPG)
+- NYC clusters map [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/8-nyc-map2.JPG)
+- Toronto clusters map [Here](https://github.com/antoloanto/appliedDScap/blob/master/week5source/5-toronto-map2.JPG)
 
 See the code [Here](https://github.com/antoloanto/appliedDScap/blob/master/AppliedDS_Capstone-BattleofNeighborhoods.ipynb) at the RESULTS point
 
