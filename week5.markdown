@@ -4,13 +4,7 @@
 1. Business Problem
     - Installing and importing
 2. Data Gathering and Organization
-    1. NYC Manhattan Data
-    2. Toronto Data
-    3. NYC Demograph
-    4. Toronto Demograph
-    5. FourSquare
-        - Start Manhattan NYC
-        - Start Toronto
+    - Examples and link to code 
 - Data Analysis
     1. NYC Manhattan neighbourhood
     2. Toronto Downtown neighbourhood
@@ -71,6 +65,7 @@ and are respectively the numeric line running east and west of the earth and the
 
 The target value (variable) or label of the data set is the neighbourhood which is the dependent variable. The other variables is like longitudes, latitudes, venues, etc are the independent (predictor) variables.
 
+###### Examples and link to code
 Example of data collected for NYC Manhattan : 
 - [NYC Data](https://github.com/antoloanto/appliedDScap/blob/master/week5source/0-data.JPG)
 - [NYC Demographs](https://github.com/antoloanto/appliedDScap/blob/master/week5source/1-demograph.JPG)
